@@ -1,0 +1,11 @@
+# Biblioteca para requisições HTTP à API do GitHub
+requests==2.32.0
+
+# Biblioteca para carregar variáveis de ambiente do arquivo .env
+python-dotenv==1.0.0
+
+# Bibliotecas padrão do Python (não precisam ser instaladas)
+# base64 - Para decodificação de conteúdo Base64 da API GitHub
+# os - Para operações do sistema operacional
+# datetime - Para manipulação de datas e timestamps
+# json - Para manipulação de dados JSON (implícito no requests)
