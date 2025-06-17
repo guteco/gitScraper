@@ -23,6 +23,7 @@ Ferramenta Python para listar seus repositórios do GitHub, permitir a seleção
 ### 1. Clone o repositório
 
 git clone https://github.com/guteco/gitScraper.git
+
 cd gitScraper
 
 ### 2. Instale as dependências
